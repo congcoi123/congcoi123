@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning authoritative game server architecture
 - 🤔 I’m looking for help with game server architecture
 - 📫 How to reach me: https://congcoi123.dev
-- 😄 Pronouns: Kong
-- ⚡ Fun fact: :)
+- ⚡ Tech Stack: java, spring, netty, c++, cocos2dx, c#, unity, php, ec-cube, js, nodejs, docker, aws, ...
 
 ### Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=congcoi123)](https://github.com/congcoi123)
+[![Stats](https://github-readme-stats.vercel.app/api?username=congcoi123)](https://gitmemory.com/congcoi123)
