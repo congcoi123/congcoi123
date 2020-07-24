@@ -8,4 +8,4 @@
 - 🎮 I'm also sharing free and open source games for mobile phones: [github/tengames](https://github.com/tengames)
 
 ### Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=congcoi123&count_private=true&show_icons=true&theme=merko)](https://gitmemory.com/congcoi123)
+[![Stats](https://github-readme-stats.vercel.app/api?username=congcoi123&count_private=true&show_icons=true)](https://gitmemory.com/congcoi123)
