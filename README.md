@@ -1,5 +1,5 @@
 ### Hi there, I'm Kong 👋
-![](https://komarev.com/ghpvc/?username=congcoi123)
+![](https://komarev.com/ghpvc/?username=congcoi123&style=flat-square)
 
 - 🔭 I’m currently working on e-commerce system development
 - 🌱 I’m currently learning authoritative game server architecture
