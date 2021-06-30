@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Enterprise Application development
 - 🌱 I’m currently learning Java EE / Jakarta EE development
-- 🤔 I’m looking for discussion with Massively Multiplayer Online Role-Playing Game (MMORPG) development
+- 🤔 I’m looking for discussions with Massively Multiplayer Online Role-Playing Game (MMORPG) development
 - 📫 How to reach me: [congcoi123.dev](https://congcoi123.dev)
 - 🌐 I speak Vietnamese, English, Japanese, and a little German
 - ⚡ Tech Stack: java, spring, netty, jetty, c++, cocos2dx, c#, unity, php, ec-cube, js, nodejs, docker, aws, ...
