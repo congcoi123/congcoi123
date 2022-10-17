@@ -10,8 +10,4 @@
 - 🎮 I'm also sharing free and open source games for mobile phones: [github/tengames](https://github.com/tengames)
 
 ### Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=congcoi123&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=congcoi123&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=congcoi123&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=congcoi123&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=congcoi123&theme=github)
+![Metrics](/github-metrics.svg)
