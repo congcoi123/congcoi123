@@ -42,3 +42,6 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: icons
           plugin_topics_sort: stars
+          plugin_projects: yes
+          plugin_projects_repositories: congcoi123/tenio-core/projects/1
+          plugin_projects_descriptions: no
